@@ -1,0 +1,141 @@
+[{
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country has hosted the 2018 FIFA World Cup?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Germany", "United States", "Saudi Arabia"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is hosting the 2022 FIFA World Cup?",
+    "correct_answer": "Qatar",
+    "incorrect_answers": ["Uganda", "Vietnam", "Bolivia"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "correct_answer": "Ma Long (China)",
+    "incorrect_answers": ["Zhang Jike (China)", "Jun Mizutani (Japan)", "Vladimir Samsonov (Belarus)"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "correct_answer": "DING Ning (China)",
+    "incorrect_answers": ["LI Xiaoxia (China)", "Ai FUKUHARA (Japan)", "Song KIM (North Korea)"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+    "correct_answer": "Chile",
+    "incorrect_answers": ["Argentina", "Brazil", "Paraguay"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which team won 2014 FIFA World Cup in Brazil?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Argentina", "Brazil", "Netherlands"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the oldest team in the NFL?",
+    "correct_answer": "Arizona Cardinals",
+    "incorrect_answers": ["Chicago Bears", "Green Bay Packers", "New York Giants"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+    "correct_answer": "84.39m",
+    "incorrect_answers": ["100m", "100yd", "109.36yd"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+    "correct_answer": "Jose Fernandez",
+    "incorrect_answers": ["Jacob deGrom", "Shelby Miller", "Matt Harvey"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was the first official international game played?",
+    "correct_answer": "1872",
+    "incorrect_answers": ["1880", "1863", "1865"]
+  }, {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "During Wimbledon, spectators in the grounds can buy the tennis balls that have been used in matches.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+    "correct_answer": "Mike Tyson",
+    "incorrect_answers": ["Roy Jones Jr.", "Evander Holyfield", "Lennox Lewis"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
+    "correct_answer": "6",
+    "incorrect_answers": ["4", "9", "2"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which African American is in part responsible for integrating  Major League baseball?",
+    "correct_answer": "Jackie Robinson",
+    "incorrect_answers": ["Curt Flood", "Roy Campanella", "Satchell Paige"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who did Steven Gerrard win the Champions League with?",
+    "correct_answer": "Liverpool",
+    "incorrect_answers": ["Real Madrid", "Chelsea", "Man City"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the topscorer for England national football team?",
+    "correct_answer": "Wayne Rooney",
+    "incorrect_answers": ["David Beckham", "Steven Gerrard", "Michael Owen"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+    "correct_answer": "61",
+    "incorrect_answers": ["65", "63", "67"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which two teams played in Super Bowl XLII?",
+    "correct_answer": "The New York Giants &amp; The New England Patriots",
+    "incorrect_answers": ["The Green Bay Packers &amp; The Pittsburgh Steelers", "The Philadelphia Eagles &amp; The New England Patriots", "The Seattle Seahawks &amp; The Denver Broncos"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NBA player has the most games played over the course of their career?",
+    "correct_answer": "Robert Parish",
+    "incorrect_answers": ["Kareem Abdul-Jabbar", "Kevin Garnett", "Kobe Bryant"]
+  }, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+    "correct_answer": "Tunisia",
+    "incorrect_answers": ["United States of America", "Italy", "Netherlands"]
+  }]
